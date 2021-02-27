@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+}
+h1 {
+  margin: 47px auto 0 auto;
+  width: 100%;
+  text-align: center;
+  /* background-color: black; */
+  color: white;
+}
+
+.link-title {
+  margin: 47px auto 0 auto;
+  width: 100%;
+  text-align: center;
+  /* background-color: black; */
+  color: white;
+} 
+
+.link-name {
+  margin: 10px auto 0 auto;
+  width: 100%;
+  text-align: center;
+  /* background-color: black; */
+  color: white;
+}
+
+.link {
+  margin: 13px auto 0 auto;
+  text-align: center;
+  /* background-color: black; */
+}
+
+a {
+  color: aliceblue;
+}
